@@ -2,13 +2,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  /* min-height: 10vh; */
   background-color: #f8f005;
 }
 
 button,
 button::after {
-  width: 150px;
+  width: 120px;
   height: 30px;
   font-size: 15px;
   font-family: "Bebas Neue", cursive;
